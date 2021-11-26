@@ -1,0 +1,4 @@
+*.exe
+go-extract-embedfs
+.idea
+.yml
